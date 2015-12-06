@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_background_color">#FFFFFF</color>
+    <color name="button_white_text_color">#FFFFFF</color>
+    <color name="white_text_color">#FFFFFF</color>
+    <color name="hint_text_color">#ffbebebe</color>
+    <color name="dark_gray_text_color">#4b4b4b</color>
+    <color name="light_gray_background_color">#ebebeb</color>
+    <color name="transparent_background_color">#00000000</color>
+    <color name="facebook_connect_button_color">#AA3B5998</color>
+    <color name="progress_background_color">#AAFFFFFF</color>
+    <color name="blue_button_background_color">#ff0090ff</color>
+</resources>
